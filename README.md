@@ -1,4 +1,4 @@
-This version of Atari Breakout's remake is depracated.
+This version of Atari Breakout's remake is deprecated.
 
 A better version is in progress of development.It can be found here - [Link to be added]
 
