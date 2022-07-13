@@ -1,10 +1,6 @@
-This version of Atari Breakout's remake is deprecated.
+This version of Atari Breakout's remake is in progress of development. It will be appreciated immensely if any issues with the code can be bought to notice using the 'Issues' feature in GitHub.
 
-A better version is in progress of development.It can be found here - [Link to be added]
-
-This remake is made using JavaScript and the P5js Libraries. Sounds have been taken from freesound.org, the rightful owners of these sounds cannot be identified as a result of the code being too old. If found and identified, the owners of the sounds will be given their due credit.
-
-The images used in this code are as mentioned previously, very old, but are made by the owner of this code (TheMythicalFury@GitHub) and thus the owner retains exclusive rights to use the images.
+This remake is made using JavaScript and the P5js Libraries.
 
 The repository is divided into 4 folders, along with an 'index.html' in the root folder, which runs the script.
 
